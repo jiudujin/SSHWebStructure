@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SSHWeb">
+    <output-path>$PROJECT_DIR$/out/artifacts/SSHWeb</output-path>
+    <root id="archive" name="SSHWeb.war">
+      <element id="artifact" artifact-name="SSHWeb:war exploded" />
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+    </root>
+  </artifact>
+</component>
